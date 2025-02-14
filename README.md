@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raini</h1>
 <h3 align="center">A passionate DevOps Engineer | Exploring the Infinite Possibilities of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1997-set&label=Profile%20views&color=0e75b6&style=flat" alt="ra1997-set" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ra1997-set&label=Profile%20views&color=0e75b6&style=flat" alt="ra1997-set" /> </p>
 
 - 🔭 I’m currently working on **CI/CD pipelines and cloud security solutions**
 
